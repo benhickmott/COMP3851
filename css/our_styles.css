@@ -1,6 +1,22 @@
 ﻿@charset "UTF-8";
 /* CSS Document */
 
+/* our_styles.css
+Made by Ben H and James M 
+Commented out Previous CSS
+*/
+.navbar .navbar-collapse {
+	text-align: center;
+  }
+.dashboardContainer {
+	display:block
+	width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
 /* Style.css
 * Created by James Morris
 * Student number - c3258992
@@ -9,6 +25,7 @@
 */
 
 /* Background image in HTML */
+/*
 .body {
     background-color: #ffffff;
     background-size: 50%;
@@ -101,6 +118,7 @@ div.container {
 }
 
 /* level 1 headings uppercase, centered, and underlined */
+/*
 h1 {text-align:center;
 	font-family: Calibri, sans-serif;
 	font-size:320%;
@@ -109,6 +127,7 @@ h1 {text-align:center;
 
 
 /* level 2 headings are uppercase, centered, and underlined */
+/*
 h2 {
 	text-transform: uppercase;
 	text-align: center;
@@ -148,3 +167,4 @@ div.intro {margin-left:2cm;
 			margin-right:2cm;
 			text-align:center;
 }
+*/
